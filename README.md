@@ -8,12 +8,23 @@ Input either 2 angles & 1 side or 1 angle & 2 sides and it will output all of th
 ## Geometry
 #### CoordinateConversion3D
 Will convert between Cartesian, Cylindrical, and Spherical coordinate systems in 3D space.
-  
+ 
+ 
+ 
+ 
+# String
+#### ConvertStringToNumber
+Converts a short string into the ASCii values, offsets them, and then added them into one number.
+ 
+ 
+ 
+ 
+# algorithms 
 ## Conversions
 #### AnyBasetoAnyBaseGUI
 Will convert a number from one base to another base. Allows case sensitive ('a' != 'A'), which gives 62 bases and case insensitive ('a' = 'A'), which gives 36 bases. It provides a simple GUI.
   
-# Sorts
+## Sorts
 #### SimplfiedBubbleSort
 A simple bubble sort.
 
@@ -22,7 +33,3 @@ Modified bubble sort that uses a flag to determine, if the previous pass had a s
 
 #### InsertionSort
 An insertion sort.
-
-# String
-#### ConvertStringToNumber
-Converts a short string into the ASCii values, offsets them, and then added them into one number.
